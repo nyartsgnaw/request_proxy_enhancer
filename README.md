@@ -1,4 +1,4 @@
-## requests.get Proxy Enhancer guide
+## requests.get Proxy Enhancer
 ### copyright: Strayn Wang
 
 #### Usage:  
